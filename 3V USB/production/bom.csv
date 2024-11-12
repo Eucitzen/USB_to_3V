@@ -1,0 +1,11 @@
+Designator,Footprint,Quantity,Value,LCSC Part #
+C1,201,1,10uF 0603,C19702 
+C2,201,1,1uF,C15849 
+C3,CP_EIA-3216-18_Kemet-A,1,22uF tantalum,C7183 
+C4,CP_EIA-3216-18_Kemet-A,1,1uF tantalum,C7174 
+FB1,201,1,FerriteBead,C2941541 
+"H1, H2",MountingHole_2.2mm_M2,2,MountingHole,
+P1,TYPE-C-31-M-17,1,USB_C_Plug_USB2.0,C283540 
+"R1, R2",201,2,56k 0603,C86985 
+"TP1, TP2",TestPoint_Pad_2.0x2.0mm,2,TestPoint,
+U1,SOT-223-3_TabPin2,1,AMS1117-3.3,C6186 
